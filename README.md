@@ -158,7 +158,7 @@ Contribuições são bem-vindas! Se você tiver ideias para novas missões ou me
 ## 🙌 Agradecimentos
 
 A todos os aprendizes e entusiastas da programação que estão sempre em busca de conhecimento! 🌟 e principalmente a toda a equipe do VAI NA WEB pelo apoio!
-Agradecimento especial ao meu intrutor Vinicius Bispo - https://github.com/vinicius-bispo1 e a facilitadora Marina!
+Agradecimento especial ao meu intrutor ***Vinicius Bispo*** - https://github.com/vinicius-bispo1 e a facilitadora ***Marina***!
 
 ---
 
